@@ -21,7 +21,7 @@ set -e
 
 DOMAIN="aws365.shop"
 WWW_DOMAIN="www.aws365.shop"
-EMAIL="your-email@example.com"   # ← change this before running
+EMAIL="info@aws365.shop"   # ← change this before running
 APP_DIR="/home/ubuntu/cloud-notes-app"
 
 echo "════════════════════════════════════════════════"
